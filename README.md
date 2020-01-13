@@ -2,9 +2,11 @@
   C++ is widely used programming language.
   You can use this repository to get yourself familiarized with Basics of C++ programming language.
   Here, MinGW compiler is used on Codelite software.
-  Both of these softwares are OpenSource Softwares and you can download these from the below given links:
-  Software: CodeLite : https://downloads.codelite.org/
-  Compiler : MinGW : https://osdn.net/projects/mingw/releases/
+  Both of these are OpenSource Softwares and you can download these from the below given links:
+  Software	: CodeLite : https://downloads.codelite.org/
+  Compiler	: MinGW : https://osdn.net/projects/mingw/releases/
+
+  You can also use Visual Studio Code with C/C++ extension for C/C++ programming.
   
   You can use other softwares such as Eclipse, Microsoft Visual Studio, NetBeans, IntelliJ IDEA, etc.
   
