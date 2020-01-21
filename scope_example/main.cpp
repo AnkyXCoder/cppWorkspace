@@ -79,8 +79,6 @@ int main() {
     static_local_example();
     static_local_example();
 
-    cout << "Value of num at the end of the program is: " << num << endl;
-
     cout << endl;
     return 0;
 }
