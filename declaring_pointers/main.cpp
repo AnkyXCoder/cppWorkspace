@@ -75,7 +75,7 @@ int main(void) {
 
     // Instead consider this example where the variables are of same types
     double high_temp {50};
-    double low_temp {20};
+    double low_temp {20.5};
     double *temp_ptr {nullptr};
     cout << "high_temp is " << high_temp << " and is stored at memory location " << &high_temp << endl;
     cout << "low_temp is " << low_temp << " and is stored at memory location " << &low_temp << endl;
