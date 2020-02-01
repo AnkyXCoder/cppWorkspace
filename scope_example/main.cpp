@@ -40,6 +40,7 @@ void global_example() {
 }
 
 void local_example(int x) {
+
     int num {1000};     // local to local_example
     cout << "\nLocal num is: " << num << " in local_example - start" << endl;
     num=x;
