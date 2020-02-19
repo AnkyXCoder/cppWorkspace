@@ -67,5 +67,16 @@ int main(void) {
     janny_account.withdraw(11000);
     janny_account.withdraw(500);
 
+    Account *peter {nullptr};
+    peter = new Account;
+
+    (*peter).name = "Peter";
+    peter->balance = 8000.0;
+    peter->display_balance();
+
+    peter->deposit(1000);
+    (*peter).withdraw(7200);
+    peter->withdraw(1000);
+
     return 0;
 }
