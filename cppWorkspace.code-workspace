@@ -4,5 +4,13 @@
 			"path": "/home/ankyxcoder/Documents/cppWorkspace"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"files.associations": {
+			"ostream": "cpp",
+			"iostream": "cpp",
+			"array": "cpp",
+			"string_view": "cpp",
+			"string": "cpp"
+		}
+	}
 }

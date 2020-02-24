@@ -6,7 +6,7 @@
   Software	: CodeLite : https://downloads.codelite.org/
   Compiler	: MinGW : https://osdn.net/projects/mingw/releases/
 
-  You can also use Visual Studio Code with C/C++ extension for C/C++ programming.
+  Visual Studio Code with C/C++ extension for C/C++ programming is also used for some of the Sections. But, it doesn't matter which Software is used.
   
   You can use other softwares such as Eclipse, Microsoft Visual Studio, NetBeans, IntelliJ IDEA, etc.
   
