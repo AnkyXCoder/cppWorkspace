@@ -1,4 +1,5 @@
 /* Coding Exercise 28_29_30
+    Tasks:
     * Create a header file "Dog.h"
     * Create a C++ class named Dog
     * Add private attributes
