@@ -1,24 +1,13 @@
-/* Copy Constructor
+/* Shallow vs Deep Copy Constructor
 
-    * When objects are copied C++ must create a new object from an existing object.
-    * When is a copy of an object is made?
-        - passing object by value as a parameter
-        - returning an object from a function by value
-        - constructing one object based on another of the same class
-    * C++ must have a way of accomplishing this so it provides a compiler-defined copy constructor if not defined one
-    * copies the value of each data member to the new object, default memberwise copy
-    * if you have a pointer data member
-        - Pointer will be copied
-        - not the data, pointer is pointing to
-        - Shallow vs Deep Copy
+    Shallow Copy Constructor
+    * memberwise copy
+    * each data member is copied from the source object
+    * the pointer is copied not what is points to (Shallow)
+    * Problem: when we release the storage in the destructor, the other object still refers to the released storage
 
-    Best Practices
-    * provide a copy constructor when your class has raw pointer members
-    * provide a copy constructor with a const reference parameter
-    * use STL classes as they already provide a copy constructors
-    * avoid using raw pointer data member if possible
-    
     Shallow Copy constructor is implemented here, please look into "Player.h" header file
+    Compile and Debug this file up to the very end, notice that this application breaks at the end, because in while display_player is called, a copy is made of the object "rock". after displaying player data, destructor of the copied object is called and that deletes the allocated memory to mana attribute. at the end of the program, compiler tries to delete the memory that is already deleted. which causes the application to crash.
 */
 
 #include <iostream>
@@ -28,24 +17,13 @@
 using namespace std;
 
 int main(void) {
-
-    cout << "Initiating a Player john." << endl;
-    Player john;
-
-    display_player(john);
-
-    cout << "Initiating a Player brock." << endl;
-    Player brock("brock");
-
-    cout << "Initiating a Player lee." << endl;
-    Player lee("lee", 15);
-
     cout << "Initiating a Player rock." << endl;
-    Player rock("rock", 150, 20);
+    Player rock("rock", 150, 20, 50);
+    display_player(rock);
 
     cout << "Copying Player rock into my_new_player." << endl;
     Player my_new_player{rock};
-    display_player(my_new_player);
+    my_new_player.set_mana(100);
 
     return 0;
 }
