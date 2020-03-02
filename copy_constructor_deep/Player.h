@@ -29,7 +29,7 @@ public:
     Player(std::string name_val = "None", int health_val = {0}, int xp_val = {0}, int mana_val ={0});
 
     // Implementing the Copy Constructor
-    // Shallow Copy Constructor
+    // Deep Copy Constructor
     Player(const Player &source);
 
     // Destructor - Only one - no return type
