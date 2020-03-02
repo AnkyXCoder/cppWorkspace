@@ -45,7 +45,7 @@ Player::Player(std::string name_val, int health_val, int xp_val, int mana_val)
 : name{name_val}, health{health_val}, xp {xp_val} {
     mana = new int;
     *mana = mana_val;
-    cout << "Three argument constructor called." << endl;
+    cout << "Four argument constructor called." << endl;
 }
 
 // // Deep Copy Constructor method 1
