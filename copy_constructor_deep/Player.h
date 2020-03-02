@@ -48,9 +48,17 @@ Player::Player(std::string name_val, int health_val, int xp_val, int mana_val)
     cout << "Three argument constructor called." << endl;
 }
 
-// Deep Copy Constructor method 1
+// // Deep Copy Constructor method 1
+// Player::Player(const Player &source)
+// : name{source.name}, health{source.health}, xp{source.xp} {
+//     mana = new int;                 // allocate a new storage
+//     *mana = *source.mana;           // copies the data into allocated memory
+//     cout << "Copy Constructor - made copy of: " << source.name << endl;
+// }
+
+// Deep Copy Constructor method 2
 Player::Player(const Player &source)
-: name{source.name}, health{source.health}, xp{source.xp} {
+: name{source.name}, health{source.health}, xp{source.xp} , mana{nullptr} {
     mana = new int;                 // allocate a new storage
     *mana = *source.mana;           // copies the data into allocated memory
     cout << "Copy Constructor - made copy of: " << source.name << endl;
