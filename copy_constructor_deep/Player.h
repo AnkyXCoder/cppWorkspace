@@ -25,7 +25,7 @@ public:
 
 
     // constructor with default parameter values
-    // Default Constructor - expects three arguments
+    // Default Constructor - expects four arguments
     Player(std::string name_val = "None", int health_val = {0}, int xp_val = {0}, int mana_val ={0});
 
     // Implementing the Copy Constructor
@@ -40,7 +40,7 @@ public:
 };
 
 
-// Default Constructor - expects three arguments
+// Default Constructor - expects four arguments
 Player::Player(std::string name_val, int health_val, int xp_val, int mana_val)
 : name{name_val}, health{health_val}, xp {xp_val} {
     mana = new int;
