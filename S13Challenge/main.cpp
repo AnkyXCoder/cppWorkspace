@@ -101,21 +101,21 @@ int main(void){
     my_movies.display();
 
     add_movie(my_movies, "Big Hero 6", "U", 6);
-    add_movie(my_movies, "Star Wars", "PG", 5);             // OK
-    add_movie(my_movies, "Cinderella", "PG", 7);            // OK
+    add_movie(my_movies, "Star Wars", "U", 5);             // OK
+    add_movie(my_movies, "How to Train Your Dragon", "U", 7);            // OK
      
-    my_movies.display();   // Big, Star Wars, Cinderella
+    my_movies.display();   // Big Hero 6, Star Wars, How to Train Your Dragon
     
-    add_movie(my_movies, "Cinderella", "PG", 7);            // Already exists
-    add_movie(my_movies, "Ice Age", "PG", 12);              // OK
+    add_movie(my_movies, "How to Train Your Dragon", "U", 7);            // Already exists
+    add_movie(my_movies, "Ice Age", "U", 12);              // OK
  
-    my_movies.display();    // Big, Star Wars, Cinderella, Ice Age
+    my_movies.display();    // Big Hero 6, Star Wars, How to Train Your Dragon, Ice Age
     
     increment_watched(my_movies, "Big Hero 6");           // OK
     increment_watched(my_movies, "Ice Age");              // OK
     increment_watched(my_movies, "Big");                  // Big not found
     
-    my_movies.display();    // Big and Ice Age watched count incremented by 1
+    my_movies.display();    // Big Hero 6 and Ice Age watched count incremented by 1
     
     increment_watched(my_movies,"XXX");     // XXX not found
     return 0;
