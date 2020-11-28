@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="cppWorkspace" Database="" Version="10000">
+  <Project Name="base_project" Path="base_project/base_project.project" Active="No"/>
+  <Project Name="S4Challenge" Path="S4Challenge/S4Challenge.project" Active="No"/>
+  <Project Name="S4FirstProgram" Path="S4FirstProgram/S4FirstProgram.project" Active="No"/>
+  <Project Name="accessing_classes_and_objects" Path="accessing_classes_and_objects/accessing_classes_and_objects.project" Active="No"/>
+  <Project Name="Assignment1LetterPyramid" Path="Assignment1LetterPyramid/Assignment1LetterPyramid.project" Active="No"/>
+  <Project Name="base_program" Path="base_program/base_program.project" Active="No"/>
+  <Project Name="C_Style_Strings" Path="C_Style_Strings/C_Style_Strings.project" Active="No"/>
+  <Project Name="class_member_access_modifiers" Path="class_member_access_modifiers/class_member_access_modifiers.project" Active="No"/>
+  <Project Name="CodingExercise4" Path="CodingExercise4/CodingExercise4.project" Active="No"/>
+  <Project Name="CodingExercise5" Path="CodingExercise5/CodingExercise5.project" Active="No"/>
+  <Project Name="CodingExercise6" Path="CodingExercise6/CodingExercise6.project" Active="No"/>
+  <Project Name="CodingExercise11" Path="CodingExercise11/CodingExercise11.project" Active="No"/>
+  <Project Name="CodingExercise12" Path="CodingExercise12/CodingExercise12.project" Active="No"/>
+  <Project Name="CodingExercise14" Path="CodingExercise14/CodingExercise14.project" Active="No"/>
+  <Project Name="CodingExercise15" Path="CodingExercise15/CodingExercise15.project" Active="No"/>
+  <Project Name="CodingExercise16" Path="CodingExercise16/CodingExercise16.project" Active="No"/>
+  <Project Name="CodingExercise17" Path="CodingExercise17/CodingExercise17.project" Active="No"/>
+  <Project Name="CodingExercise18" Path="CodingExercise18/CodingExercise18.project" Active="No"/>
+  <Project Name="CodingExercise19" Path="CodingExercise19/CodingExercise19.project" Active="No"/>
+  <Project Name="CodingExercise20" Path="CodingExercise20/CodingExercise20.project" Active="No"/>
+  <Project Name="CodingExercise21" Path="CodingExercise21/CodingExercise21.project" Active="No"/>
+  <Project Name="CodingExercise22" Path="CodingExercise22/CodingExercise22.project" Active="No"/>
+  <Project Name="CodingExercise23" Path="CodingExercise23/CodingExercise23.project" Active="No"/>
+  <Project Name="CodingExercise24" Path="CodingExercise24/CodingExercise24.project" Active="No"/>
+  <Project Name="CodingExercise25" Path="CodingExercise25/CodingExercise25.project" Active="No"/>
+  <Project Name="CodingExercise26" Path="CodingExercise26/CodingExercise26.project" Active="No"/>
+  <Project Name="CodingExercise27" Path="CodingExercise27/CodingExercise27.project" Active="No"/>
+  <Project Name="CodingExercise28_29_30" Path="CodingExercise28_29_30/CodingExercise28_29_30.project" Active="No"/>
+  <Project Name="CodingExercise31_32" Path="CodingExercise31_32/CodingExercise31_32.project" Active="No"/>
+  <Project Name="CodingExercise33" Path="CodingExercise33/CodingExercise33.project" Active="No"/>
+  <Project Name="CodingExercise34" Path="CodingExercise34/CodingExercise34.project" Active="No"/>
+  <Project Name="Coercion" Path="Coercion/Coercion.project" Active="No"/>
+  <Project Name="const_qualifier_and_pointers" Path="const_qualifier_and_pointers/const_qualifier_and_pointers.project" Active="No"/>
+  <Project Name="const_with_classes" Path="const_with_classes/const_with_classes.project" Active="No"/>
+  <Project Name="constructor_initialization_lists" Path="constructor_initialization_lists/constructor_initialization_lists.project" Active="No"/>
+  <Project Name="constructors_and_destrcutors" Path="constructors_and_destrcutors/constructors_and_destrcutors.project" Active="No"/>
+  <Project Name="continue_break" Path="continue_break/continue_break.project" Active="No"/>
+  <Project Name="copy_constructor" Path="copy_constructor/copy_constructor.project" Active="No"/>
+  <Project Name="copy_constructor_deep" Path="copy_constructor_deep/copy_constructor_deep.project" Active="No"/>
+  <Project Name="copy_constructor_shallow" Path="copy_constructor_shallow/copy_constructor_shallow.project" Active="No"/>
+  <Project Name="cpp_functions" Path="cpp_functions/cpp_functions.project" Active="No"/>
+  <Project Name="Cpp_Style_Strings" Path="Cpp_Style_Strings/Cpp_Style_Strings.project" Active="No"/>
+  <Project Name="debugger" Path="debugger/debugger.project" Active="No"/>
+  <Project Name="declare_arrays" Path="declare_arrays/declare_arrays.project" Active="No"/>
+  <Project Name="declare_constants" Path="declare_constants/declare_constants.project" Active="No"/>
+  <Project Name="declare_vectors" Path="declare_vectors/declare_vectors.project" Active="No"/>
+  <Project Name="declaring_classes_and_objects" Path="declaring_classes_and_objects/declaring_classes_and_objects.project" Active="No"/>
+  <Project Name="declaring_pointers" Path="declaring_pointers/declaring_pointers.project" Active="No"/>
+  <Project Name="default_arguments" Path="default_arguments/default_arguments.project" Active="No"/>
+  <Project Name="default_constructor" Path="default_constructor/default_constructor.project" Active="No"/>
+  <Project Name="default_constructor_parameters" Path="default_constructor_parameters/default_constructor_parameters.project" Active="No"/>
+  <Project Name="delegating_constructors" Path="delegating_constructors/delegating_constructors.project" Active="No"/>
+  <Project Name="dereferencing_pointer" Path="dereferencing_pointer/dereferencing_pointer.project" Active="No"/>
+  <Project Name="dynamic_memory_allocation" Path="dynamic_memory_allocation/dynamic_memory_allocation.project" Active="No"/>
+  <Project Name="enumSwitch" Path="enumSwitch/enumSwitch.project" Active="No"/>
+  <Project Name="factorial_function_recursive" Path="factorial_function_recursive/factorial_function_recursive.project" Active="No"/>
+  <Project Name="fibonacci_recursive_function" Path="fibonacci_recursive_function/fibonacci_recursive_function.project" Active="No"/>
+  <Project Name="friends_of_class" Path="friends_of_class/friends_of_class.project" Active="No"/>
+  <Project Name="function_definition" Path="function_definition/function_definition.project" Active="No"/>
+  <Project Name="function_parameters" Path="function_parameters/function_parameters.project" Active="No"/>
+  <Project Name="function_prototypes" Path="function_prototypes/function_prototypes.project" Active="No"/>
+  <Project Name="how_function_call_works" Path="how_function_call_works/how_function_call_works.project" Active="No"/>
+  <Project Name="implementing_member_methods_1" Path="implementing_member_methods_1/implementing_member_methods_1.project" Active="No"/>
+  <Project Name="implementing_member_methods_2" Path="implementing_member_methods_2/implementing_member_methods_2.project" Active="No"/>
+  <Project Name="L_value_R_value" Path="L_value_R_value/L_value_R_value.project" Active="No"/>
+  <Project Name="menu_selection" Path="menu_selection/menu_selection.project" Active="No"/>
+  <Project Name="move_constructor" Path="move_constructor/move_constructor.project" Active="No"/>
+  <Project Name="MyProject" Path="MyProject/MyProject.project" Active="No"/>
+  <Project Name="operator_overloading_copy_assignment" Path="operator_overloading_copy_assignment/operator_overloading_copy_assignment.project" Active="No"/>
+  <Project Name="operator_overloading_move_assignment" Path="operator_overloading_move_assignment/operator_overloading_move_assignment.project" Active="No"/>
+  <Project Name="operator_overloading_step1" Path="operator_overloading_step1/operator_overloading_step1.project" Active="No"/>
+  <Project Name="overloading_constructors" Path="overloading_constructors/overloading_constructors.project" Active="No"/>
+  <Project Name="overloading_functions" Path="overloading_functions/overloading_functions.project" Active="No"/>
+  <Project Name="overloading_operator_member_function" Path="overloading_operator_member_function/overloading_operator_member_function.project" Active="No"/>
+  <Project Name="pass_by_reference" Path="pass_by_reference/pass_by_reference.project" Active="No"/>
+  <Project Name="passing_array_to_function" Path="passing_array_to_function/passing_array_to_function.project" Active="No"/>
+  <Project Name="passing_pointer_to_function" Path="passing_pointer_to_function/passing_pointer_to_function.project" Active="No"/>
+  <Project Name="pointer_and_array" Path="pointer_and_array/pointer_and_array.project" Active="No"/>
+  <Project Name="pointer_arithmatic" Path="pointer_arithmatic/pointer_arithmatic.project" Active="No"/>
+  <Project Name="primitives" Path="primitives/primitives.project" Active="No"/>
+  <Project Name="Project1" Path="Project1/Project1.project" Active="No"/>
+  <Project Name="Project2" Path="Project2/Project2.project" Active="No"/>
+  <Project Name="random_numbers" Path="random_numbers/random_numbers.project" Active="No"/>
+  <Project Name="references" Path="references/references.project" Active="No"/>
+  <Project Name="returning_pointer_from_function" Path="returning_pointer_from_function/returning_pointer_from_function.project" Active="No"/>
+  <Project Name="S6Challenge" Path="S6Challenge/S6Challenge.project" Active="No"/>
+  <Project Name="S7Challenge" Path="S7Challenge/S7Challenge.project" Active="No"/>
+  <Project Name="S8Challenge" Path="S8Challenge/S8Challenge.project" Active="No"/>
+  <Project Name="S9Challenge" Path="S9Challenge/S9Challenge.project" Active="No"/>
+  <Project Name="S10Challenge" Path="S10Challenge/S10Challenge.project" Active="No"/>
+  <Project Name="S11Challenge" Path="S11Challenge/S11Challenge.project" Active="No"/>
+  <Project Name="S12Challenge" Path="S12Challenge/S12Challenge.project" Active="No"/>
+  <Project Name="S13Challenge" Path="S13Challenge/S13Challenge.project" Active="No"/>
+  <Project Name="scope_example" Path="scope_example/scope_example.project" Active="No"/>
+  <Project Name="static_class_members" Path="static_class_members/static_class_members.project" Active="No"/>
+  <Project Name="swap_function" Path="swap_function/swap_function.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="base_project" ConfigName="Debug"/>
+      <Project Name="S4Challenge" ConfigName="Debug"/>
+      <Project Name="S4FirstProgram" ConfigName="Debug"/>
+      <Project Name="accessing_classes_and_objects" ConfigName="Debug"/>
+      <Project Name="Assignment1LetterPyramid" ConfigName="Debug"/>
+      <Project Name="base_program" ConfigName="Debug"/>
+      <Project Name="C_Style_Strings" ConfigName="Debug"/>
+      <Project Name="class_member_access_modifiers" ConfigName="Debug"/>
+      <Project Name="CodingExercise4" ConfigName="Debug"/>
+      <Project Name="CodingExercise5" ConfigName="Debug"/>
+      <Project Name="CodingExercise6" ConfigName="Debug"/>
+      <Project Name="CodingExercise11" ConfigName="Debug"/>
+      <Project Name="CodingExercise12" ConfigName="Debug"/>
+      <Project Name="CodingExercise14" ConfigName="Debug"/>
+      <Project Name="CodingExercise15" ConfigName="Debug"/>
+      <Project Name="CodingExercise16" ConfigName="Debug"/>
+      <Project Name="CodingExercise17" ConfigName="Debug"/>
+      <Project Name="CodingExercise18" ConfigName="Debug"/>
+      <Project Name="CodingExercise19" ConfigName="Debug"/>
+      <Project Name="CodingExercise20" ConfigName="Debug"/>
+      <Project Name="CodingExercise21" ConfigName="Debug"/>
+      <Project Name="CodingExercise22" ConfigName="Debug"/>
+      <Project Name="CodingExercise23" ConfigName="Debug"/>
+      <Project Name="CodingExercise24" ConfigName="Debug"/>
+      <Project Name="CodingExercise25" ConfigName="Debug"/>
+      <Project Name="CodingExercise26" ConfigName="Debug"/>
+      <Project Name="CodingExercise27" ConfigName="Debug"/>
+      <Project Name="CodingExercise28_29_30" ConfigName="Debug"/>
+      <Project Name="CodingExercise31_32" ConfigName="Debug"/>
+      <Project Name="CodingExercise33" ConfigName="Debug"/>
+      <Project Name="CodingExercise34" ConfigName="Debug"/>
+      <Project Name="Coercion" ConfigName="Debug"/>
+      <Project Name="const_qualifier_and_pointers" ConfigName="Debug"/>
+      <Project Name="const_with_classes" ConfigName="Debug"/>
+      <Project Name="constructor_initialization_lists" ConfigName="Debug"/>
+      <Project Name="constructors_and_destrcutors" ConfigName="Debug"/>
+      <Project Name="continue_break" ConfigName="Debug"/>
+      <Project Name="copy_constructor" ConfigName="Debug"/>
+      <Project Name="copy_constructor_deep" ConfigName="Debug"/>
+      <Project Name="copy_constructor_shallow" ConfigName="Debug"/>
+      <Project Name="cpp_functions" ConfigName="Debug"/>
+      <Project Name="Cpp_Style_Strings" ConfigName="Debug"/>
+      <Project Name="debugger" ConfigName="Debug"/>
+      <Project Name="declare_arrays" ConfigName="Debug"/>
+      <Project Name="declare_constants" ConfigName="Debug"/>
+      <Project Name="declare_vectors" ConfigName="Debug"/>
+      <Project Name="declaring_classes_and_objects" ConfigName="Debug"/>
+      <Project Name="declaring_pointers" ConfigName="Debug"/>
+      <Project Name="default_arguments" ConfigName="Debug"/>
+      <Project Name="default_constructor" ConfigName="Debug"/>
+      <Project Name="default_constructor_parameters" ConfigName="Debug"/>
+      <Project Name="delegating_constructors" ConfigName="Debug"/>
+      <Project Name="dereferencing_pointer" ConfigName="Debug"/>
+      <Project Name="dynamic_memory_allocation" ConfigName="Debug"/>
+      <Project Name="enumSwitch" ConfigName="Debug"/>
+      <Project Name="factorial_function_recursive" ConfigName="Debug"/>
+      <Project Name="fibonacci_recursive_function" ConfigName="Debug"/>
+      <Project Name="friends_of_class" ConfigName="Debug"/>
+      <Project Name="function_definition" ConfigName="Debug"/>
+      <Project Name="function_parameters" ConfigName="Debug"/>
+      <Project Name="function_prototypes" ConfigName="Debug"/>
+      <Project Name="how_function_call_works" ConfigName="Debug"/>
+      <Project Name="implementing_member_methods_1" ConfigName="Debug"/>
+      <Project Name="implementing_member_methods_2" ConfigName="Debug"/>
+      <Project Name="L_value_R_value" ConfigName="Debug"/>
+      <Project Name="menu_selection" ConfigName="Debug"/>
+      <Project Name="move_constructor" ConfigName="Debug"/>
+      <Project Name="MyProject" ConfigName="Debug"/>
+      <Project Name="operator_overloading_copy_assignment" ConfigName="Debug"/>
+      <Project Name="operator_overloading_move_assignment" ConfigName="Debug"/>
+      <Project Name="operator_overloading_step1" ConfigName="Debug"/>
+      <Project Name="overloading_constructors" ConfigName="Debug"/>
+      <Project Name="overloading_functions" ConfigName="Debug"/>
+      <Project Name="overloading_operator_member_function" ConfigName="Debug"/>
+      <Project Name="pass_by_reference" ConfigName="Debug"/>
+      <Project Name="passing_array_to_function" ConfigName="Debug"/>
+      <Project Name="passing_pointer_to_function" ConfigName="Debug"/>
+      <Project Name="pointer_and_array" ConfigName="Debug"/>
+      <Project Name="pointer_arithmatic" ConfigName="Debug"/>
+      <Project Name="primitives" ConfigName="Debug"/>
+      <Project Name="Project1" ConfigName="Debug"/>
+      <Project Name="Project2" ConfigName="Debug"/>
+      <Project Name="random_numbers" ConfigName="Debug"/>
+      <Project Name="references" ConfigName="Debug"/>
+      <Project Name="returning_pointer_from_function" ConfigName="Debug"/>
+      <Project Name="S6Challenge" ConfigName="Debug"/>
+      <Project Name="S7Challenge" ConfigName="Debug"/>
+      <Project Name="S8Challenge" ConfigName="Debug"/>
+      <Project Name="S9Challenge" ConfigName="Debug"/>
+      <Project Name="S10Challenge" ConfigName="Debug"/>
+      <Project Name="S11Challenge" ConfigName="Debug"/>
+      <Project Name="S12Challenge" ConfigName="Debug"/>
+      <Project Name="S13Challenge" ConfigName="Debug"/>
+      <Project Name="scope_example" ConfigName="Debug"/>
+      <Project Name="static_class_members" ConfigName="Debug"/>
+      <Project Name="swap_function" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="base_project" ConfigName="Release"/>
+      <Project Name="S4Challenge" ConfigName="Release"/>
+      <Project Name="S4FirstProgram" ConfigName="Release"/>
+      <Project Name="accessing_classes_and_objects" ConfigName="Release"/>
+      <Project Name="Assignment1LetterPyramid" ConfigName="Release"/>
+      <Project Name="base_program" ConfigName="Release"/>
+      <Project Name="C_Style_Strings" ConfigName="Release"/>
+      <Project Name="class_member_access_modifiers" ConfigName="Release"/>
+      <Project Name="CodingExercise4" ConfigName="Release"/>
+      <Project Name="CodingExercise5" ConfigName="Release"/>
+      <Project Name="CodingExercise6" ConfigName="Release"/>
+      <Project Name="CodingExercise11" ConfigName="Release"/>
+      <Project Name="CodingExercise12" ConfigName="Release"/>
+      <Project Name="CodingExercise14" ConfigName="Release"/>
+      <Project Name="CodingExercise15" ConfigName="Release"/>
+      <Project Name="CodingExercise16" ConfigName="Release"/>
+      <Project Name="CodingExercise17" ConfigName="Release"/>
+      <Project Name="CodingExercise18" ConfigName="Release"/>
+      <Project Name="CodingExercise19" ConfigName="Release"/>
+      <Project Name="CodingExercise20" ConfigName="Release"/>
+      <Project Name="CodingExercise21" ConfigName="Release"/>
+      <Project Name="CodingExercise22" ConfigName="Release"/>
+      <Project Name="CodingExercise23" ConfigName="Release"/>
+      <Project Name="CodingExercise24" ConfigName="Release"/>
+      <Project Name="CodingExercise25" ConfigName="Release"/>
+      <Project Name="CodingExercise26" ConfigName="Release"/>
+      <Project Name="CodingExercise27" ConfigName="Release"/>
+      <Project Name="CodingExercise28_29_30" ConfigName="Release"/>
+      <Project Name="CodingExercise31_32" ConfigName="Release"/>
+      <Project Name="CodingExercise33" ConfigName="Release"/>
+      <Project Name="CodingExercise34" ConfigName="Release"/>
+      <Project Name="Coercion" ConfigName="Release"/>
+      <Project Name="const_qualifier_and_pointers" ConfigName="Release"/>
+      <Project Name="const_with_classes" ConfigName="Release"/>
+      <Project Name="constructor_initialization_lists" ConfigName="Release"/>
+      <Project Name="constructors_and_destrcutors" ConfigName="Release"/>
+      <Project Name="continue_break" ConfigName="Release"/>
+      <Project Name="copy_constructor" ConfigName="Release"/>
+      <Project Name="copy_constructor_deep" ConfigName="Release"/>
+      <Project Name="copy_constructor_shallow" ConfigName="Release"/>
+      <Project Name="cpp_functions" ConfigName="Release"/>
+      <Project Name="Cpp_Style_Strings" ConfigName="Release"/>
+      <Project Name="debugger" ConfigName="Release"/>
+      <Project Name="declare_arrays" ConfigName="Release"/>
+      <Project Name="declare_constants" ConfigName="Release"/>
+      <Project Name="declare_vectors" ConfigName="Release"/>
+      <Project Name="declaring_classes_and_objects" ConfigName="Release"/>
+      <Project Name="declaring_pointers" ConfigName="Release"/>
+      <Project Name="default_arguments" ConfigName="Release"/>
+      <Project Name="default_constructor" ConfigName="Release"/>
+      <Project Name="default_constructor_parameters" ConfigName="Release"/>
+      <Project Name="delegating_constructors" ConfigName="Release"/>
+      <Project Name="dereferencing_pointer" ConfigName="Release"/>
+      <Project Name="dynamic_memory_allocation" ConfigName="Release"/>
+      <Project Name="enumSwitch" ConfigName="Release"/>
+      <Project Name="factorial_function_recursive" ConfigName="Release"/>
+      <Project Name="fibonacci_recursive_function" ConfigName="Release"/>
+      <Project Name="friends_of_class" ConfigName="Release"/>
+      <Project Name="function_definition" ConfigName="Release"/>
+      <Project Name="function_parameters" ConfigName="Release"/>
+      <Project Name="function_prototypes" ConfigName="Release"/>
+      <Project Name="how_function_call_works" ConfigName="Release"/>
+      <Project Name="implementing_member_methods_1" ConfigName="Release"/>
+      <Project Name="implementing_member_methods_2" ConfigName="Release"/>
+      <Project Name="L_value_R_value" ConfigName="Release"/>
+      <Project Name="menu_selection" ConfigName="Release"/>
+      <Project Name="move_constructor" ConfigName="Release"/>
+      <Project Name="MyProject" ConfigName="Release"/>
+      <Project Name="operator_overloading_copy_assignment" ConfigName="Release"/>
+      <Project Name="operator_overloading_move_assignment" ConfigName="Release"/>
+      <Project Name="operator_overloading_step1" ConfigName="Release"/>
+      <Project Name="overloading_constructors" ConfigName="Release"/>
+      <Project Name="overloading_functions" ConfigName="Release"/>
+      <Project Name="overloading_operator_member_function" ConfigName="Release"/>
+      <Project Name="pass_by_reference" ConfigName="Release"/>
+      <Project Name="passing_array_to_function" ConfigName="Release"/>
+      <Project Name="passing_pointer_to_function" ConfigName="Release"/>
+      <Project Name="pointer_and_array" ConfigName="Release"/>
+      <Project Name="pointer_arithmatic" ConfigName="Release"/>
+      <Project Name="primitives" ConfigName="Release"/>
+      <Project Name="Project1" ConfigName="Release"/>
+      <Project Name="Project2" ConfigName="Release"/>
+      <Project Name="random_numbers" ConfigName="Release"/>
+      <Project Name="references" ConfigName="Release"/>
+      <Project Name="returning_pointer_from_function" ConfigName="Release"/>
+      <Project Name="S6Challenge" ConfigName="Release"/>
+      <Project Name="S7Challenge" ConfigName="Release"/>
+      <Project Name="S8Challenge" ConfigName="Release"/>
+      <Project Name="S9Challenge" ConfigName="Release"/>
+      <Project Name="S10Challenge" ConfigName="Release"/>
+      <Project Name="S11Challenge" ConfigName="Release"/>
+      <Project Name="S12Challenge" ConfigName="Release"/>
+      <Project Name="S13Challenge" ConfigName="Release"/>
+      <Project Name="scope_example" ConfigName="Release"/>
+      <Project Name="static_class_members" ConfigName="Release"/>
+      <Project Name="swap_function" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

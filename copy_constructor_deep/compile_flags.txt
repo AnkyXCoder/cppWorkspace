@@ -1,0 +1,9 @@
+-IC:\Program\mingw-w64\mingw64\lib\gcc\x86_64-w64-mingw32\8.1.0\include\c++
+-IC:\Program\mingw-w64\mingw64\lib\gcc\x86_64-w64-mingw32\8.1.0\include\c++\x86_64-w64-mingw32
+-IC:\Program\mingw-w64\mingw64\lib\gcc\x86_64-w64-mingw32\8.1.0\include\c++\backward
+-IC:\Program\mingw-w64\mingw64\lib\gcc\x86_64-w64-mingw32\8.1.0\include
+-IC:\Program\mingw-w64\mingw64\lib\gcc\x86_64-w64-mingw32\8.1.0\include-fixed
+-IC:\Program\mingw-w64\mingw64\x86_64-w64-mingw32\include
+-ID:\Workspace\cppWorkspace\copy_constructor_deep
+-target
+x86_64-pc-windows-gnu
