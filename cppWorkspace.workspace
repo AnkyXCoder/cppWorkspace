@@ -95,7 +95,8 @@
   <Project Name="S13Challenge" Path="S13Challenge/S13Challenge.project" Active="No"/>
   <Project Name="scope_example" Path="scope_example/scope_example.project" Active="No"/>
   <Project Name="static_class_members" Path="static_class_members/static_class_members.project" Active="No"/>
-  <Project Name="swap_function" Path="swap_function/swap_function.project" Active="Yes"/>
+  <Project Name="swap_function" Path="swap_function/swap_function.project" Active="No"/>
+  <Project Name="overloading_operator_global_function" Path="overloading_operator_global_function/overloading_operator_global_function.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
@@ -195,6 +196,7 @@
       <Project Name="scope_example" ConfigName="Debug"/>
       <Project Name="static_class_members" ConfigName="Debug"/>
       <Project Name="swap_function" ConfigName="Debug"/>
+      <Project Name="overloading_operator_global_function" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -294,6 +296,7 @@
       <Project Name="scope_example" ConfigName="Release"/>
       <Project Name="static_class_members" ConfigName="Release"/>
       <Project Name="swap_function" ConfigName="Release"/>
+      <Project Name="overloading_operator_global_function" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
