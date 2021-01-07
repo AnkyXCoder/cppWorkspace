@@ -97,7 +97,8 @@
   <Project Name="static_class_members" Path="static_class_members/static_class_members.project" Active="No"/>
   <Project Name="swap_function" Path="swap_function/swap_function.project" Active="No"/>
   <Project Name="overloading_operator_global_function" Path="overloading_operator_global_function/overloading_operator_global_function.project" Active="No"/>
-  <Project Name="CodingExercise35" Path="CodingExercise35/CodingExercise35.project" Active="Yes"/>
+  <Project Name="CodingExercise35" Path="CodingExercise35/CodingExercise35.project" Active="No"/>
+  <Project Name="operator_overloading_stream_insertion_extraction" Path="operator_overloading_stream_insertion_extraction/operator_overloading_stream_insertion_extraction.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
@@ -199,6 +200,7 @@
       <Project Name="swap_function" ConfigName="Debug"/>
       <Project Name="overloading_operator_global_function" ConfigName="Debug"/>
       <Project Name="CodingExercise35" ConfigName="Debug"/>
+      <Project Name="operator_overloading_stream_insertion_extraction" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -300,6 +302,7 @@
       <Project Name="swap_function" ConfigName="Release"/>
       <Project Name="overloading_operator_global_function" ConfigName="Release"/>
       <Project Name="CodingExercise35" ConfigName="Release"/>
+      <Project Name="operator_overloading_stream_insertion_extraction" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
