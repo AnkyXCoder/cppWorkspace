@@ -1,3 +1,11 @@
 */Debug
 //*/*.mk
 //*/*.txt
+*.exe
+*.o
+*.d
+*.db
+*.session
+*.tags
+.ctagsd/
+.codelite/
