@@ -103,7 +103,8 @@
   <Project Name="S14Challenge1" Path="S14Challenge/S14Challenge.project" Active="No"/>
   <Project Name="S14Challenge2" Path="S14Challenge2/S14Challenge2.project" Active="No"/>
   <Project Name="deriving_class" Path="deriving_class/deriving_class.project" Active="No"/>
-  <Project Name="protected_members_class_access" Path="protected_members_class_access/protected_members_class_access.project" Active="Yes"/>
+  <Project Name="protected_members_class_access" Path="protected_members_class_access/protected_members_class_access.project" Active="No"/>
+  <Project Name="class_constructors_destructors" Path="class_constructors_destructors/class_constructors_destructors.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -211,6 +212,7 @@
       <Project Name="S14Challenge2" ConfigName="Debug"/>
       <Project Name="deriving_class" ConfigName="Debug"/>
       <Project Name="protected_members_class_access" ConfigName="Debug"/>
+      <Project Name="class_constructors_destructors" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -318,6 +320,7 @@
       <Project Name="S14Challenge2" ConfigName="Debug"/>
       <Project Name="deriving_class" ConfigName="Debug"/>
       <Project Name="protected_members_class_access" ConfigName="Debug"/>
+      <Project Name="class_constructors_destructors" ConfigName="Debug"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
