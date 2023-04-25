@@ -9,3 +9,4 @@
 *.tags
 .ctagsd/
 .codelite/
+build-Debug/

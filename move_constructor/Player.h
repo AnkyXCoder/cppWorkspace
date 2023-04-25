@@ -20,7 +20,7 @@ public:
     string get_name(void) {return name; }
     int get_health(void) { return health; }
     int get_xp(void) { return xp; }
-    int set_mana(int mana_val) { *mana = mana_val; }
+    void set_mana(int mana_val) { *mana = mana_val; }
     int get_mana(void) { return *mana; }
 
 

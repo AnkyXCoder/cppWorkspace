@@ -99,9 +99,11 @@
   <Project Name="overloading_operator_global_function" Path="overloading_operator_global_function/overloading_operator_global_function.project" Active="No"/>
   <Project Name="CodingExercise35" Path="CodingExercise35/CodingExercise35.project" Active="No"/>
   <Project Name="operator_overloading_stream_insertion_extraction" Path="operator_overloading_stream_insertion_extraction/operator_overloading_stream_insertion_extraction.project" Active="No"/>
-  <Project Name="CodingExercise36" Path="CodingExercise36/CodingExercise36.project" Active="Yes"/>
+  <Project Name="CodingExercise36" Path="CodingExercise36/CodingExercise36.project" Active="No"/>
+  <Project Name="S14Challenge1" Path="S14Challenge/S14Challenge.project" Active="No"/>
+  <Project Name="S14Challenge2" Path="S14Challenge2/S14Challenge2.project" Active="Yes"/>
   <BuildMatrix>
-    <WorkspaceConfiguration Name="Debug" Selected="yes">
+    <WorkspaceConfiguration Name="Debug">
       <Environment/>
       <Project Name="base_project" ConfigName="Debug"/>
       <Project Name="S4Challenge" ConfigName="Debug"/>
@@ -203,8 +205,10 @@
       <Project Name="CodingExercise35" ConfigName="Debug"/>
       <Project Name="operator_overloading_stream_insertion_extraction" ConfigName="Debug"/>
       <Project Name="CodingExercise36" ConfigName="Debug"/>
+      <Project Name="S14Challenge1" ConfigName="Debug"/>
+      <Project Name="S14Challenge2" ConfigName="Debug"/>
     </WorkspaceConfiguration>
-    <WorkspaceConfiguration Name="Release" Selected="yes">
+    <WorkspaceConfiguration Name="Release">
       <Environment/>
       <Project Name="base_project" ConfigName="Release"/>
       <Project Name="S4Challenge" ConfigName="Release"/>
@@ -306,6 +310,8 @@
       <Project Name="CodingExercise35" ConfigName="Release"/>
       <Project Name="operator_overloading_stream_insertion_extraction" ConfigName="Release"/>
       <Project Name="CodingExercise36" ConfigName="Release"/>
+      <Project Name="S14Challenge1" ConfigName="Debug"/>
+      <Project Name="S14Challenge2" ConfigName="Debug"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>

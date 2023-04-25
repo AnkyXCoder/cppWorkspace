@@ -5,6 +5,7 @@
 ## Debug
 ProjectName            :=constructor_initialization_lists
 ConfigurationName      :=Debug
+WorkspaceConfiguration :=Debug
 WorkspacePath          :=D:/Workspace/cppWorkspace
 ProjectPath            :=D:/Workspace/cppWorkspace/constructor_initialization_lists
 IntermediateDirectory  :=$(ConfigurationName)
@@ -13,10 +14,10 @@ CurrentFileName        :=
 CurrentFilePath        :=
 CurrentFileFullPath    :=
 User                   :=ankit
-Date                   :=03/01/2021
+Date                   :=18/04/2023
 CodeLitePath           :="C:/Program Files/CodeLite"
-LinkerName             :=C:/Program/mingw-w64/mingw64/bin/g++.exe
-SharedObjectLinkerName :=C:/Program/mingw-w64/mingw64/bin/g++.exe -shared -fPIC
+LinkerName             :=C:/mingw64/bin/g++.exe
+SharedObjectLinkerName :=C:/mingw64/bin/g++.exe -shared -fPIC
 ObjectSuffix           :=.o
 DependSuffix           :=.o.d
 PreprocessSuffix       :=.i
@@ -27,6 +28,7 @@ OutputSwitch           :=-o
 LibraryPathSwitch      :=-L
 PreprocessorSwitch     :=-D
 SourceSwitch           :=-c 
+OutputDirectory        :=$(IntermediateDirectory)
 OutputFile             :=$(IntermediateDirectory)/$(ProjectName)
 Preprocessors          :=
 ObjectSwitch           :=-o 
@@ -36,7 +38,7 @@ ObjectsFileList        :="constructor_initialization_lists.txt"
 PCHCompileFlags        :=
 MakeDirCommand         :=makedir
 RcCmpOptions           := 
-RcCompilerName         :=C:/Program/mingw-w64/mingw64/bin/windres.exe
+RcCompilerName         :=C:/mingw64/bin/windres.exe
 LinkOptions            :=  -static
 IncludePath            :=  $(IncludeSwitch). $(IncludeSwitch). 
 IncludePCH             := 
@@ -47,15 +49,15 @@ LibPath                := $(LibraryPathSwitch).
 
 ##
 ## Common variables
-## AR, CXX, CC, AS, CXXFLAGS and CFLAGS can be overriden using an environment variables
+## AR, CXX, CC, AS, CXXFLAGS and CFLAGS can be overridden using an environment variable
 ##
-AR       := C:/Program/mingw-w64/mingw64/bin/ar.exe rcu
-CXX      := C:/Program/mingw-w64/mingw64/bin/g++.exe
-CC       := C:/Program/mingw-w64/mingw64/bin/gcc.exe
+AR       := C:/mingw64/bin/ar.exe rcu
+CXX      := C:/mingw64/bin/g++.exe
+CC       := C:/mingw64/bin/gcc.exe
 CXXFLAGS :=  -g -O0 -std=c++17 -Wall $(Preprocessors)
 CFLAGS   :=  -g -O0 -Wall $(Preprocessors)
 ASFLAGS  := 
-AS       := C:/Program/mingw-w64/mingw64/bin/as.exe
+AS       := C:/mingw64/bin/as.exe
 
 
 ##
