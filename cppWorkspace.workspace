@@ -101,7 +101,9 @@
   <Project Name="operator_overloading_stream_insertion_extraction" Path="operator_overloading_stream_insertion_extraction/operator_overloading_stream_insertion_extraction.project" Active="No"/>
   <Project Name="CodingExercise36" Path="CodingExercise36/CodingExercise36.project" Active="No"/>
   <Project Name="S14Challenge1" Path="S14Challenge/S14Challenge.project" Active="No"/>
-  <Project Name="S14Challenge2" Path="S14Challenge2/S14Challenge2.project" Active="Yes"/>
+  <Project Name="S14Challenge2" Path="S14Challenge2/S14Challenge2.project" Active="No"/>
+  <Project Name="deriving_class" Path="deriving_class/deriving_class.project" Active="No"/>
+  <Project Name="protected_members_class_access" Path="protected_members_class_access/protected_members_class_access.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -207,6 +209,8 @@
       <Project Name="CodingExercise36" ConfigName="Debug"/>
       <Project Name="S14Challenge1" ConfigName="Debug"/>
       <Project Name="S14Challenge2" ConfigName="Debug"/>
+      <Project Name="deriving_class" ConfigName="Debug"/>
+      <Project Name="protected_members_class_access" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -312,6 +316,8 @@
       <Project Name="CodingExercise36" ConfigName="Release"/>
       <Project Name="S14Challenge1" ConfigName="Debug"/>
       <Project Name="S14Challenge2" ConfigName="Debug"/>
+      <Project Name="deriving_class" ConfigName="Debug"/>
+      <Project Name="protected_members_class_access" ConfigName="Debug"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
