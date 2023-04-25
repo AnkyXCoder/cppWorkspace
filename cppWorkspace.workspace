@@ -106,7 +106,8 @@
   <Project Name="protected_members_class_access" Path="protected_members_class_access/protected_members_class_access.project" Active="No"/>
   <Project Name="class_constructors_destructors" Path="class_constructors_destructors/class_constructors_destructors.project" Active="No"/>
   <Project Name="base_class_initialization" Path="base_class_initialization/base_class_initialization.project" Active="No"/>
-  <Project Name="class_copy_constructor_assignment_operator" Path="class_copy_constructor_assignment_operator/class_copy_constructor_assignment_operator.project" Active="Yes"/>
+  <Project Name="class_copy_constructor_assignment_operator" Path="class_copy_constructor_assignment_operator/class_copy_constructor_assignment_operator.project" Active="No"/>
+  <Project Name="redefining_base_class_methods" Path="redefining_base_class_methods/redefining_base_class_methods.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -217,6 +218,7 @@
       <Project Name="class_constructors_destructors" ConfigName="Debug"/>
       <Project Name="base_class_initialization" ConfigName="Debug"/>
       <Project Name="class_copy_constructor_assignment_operator" ConfigName="Debug"/>
+      <Project Name="redefining_base_class_methods" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -327,6 +329,7 @@
       <Project Name="class_constructors_destructors" ConfigName="Debug"/>
       <Project Name="base_class_initialization" ConfigName="Debug"/>
       <Project Name="class_copy_constructor_assignment_operator" ConfigName="Debug"/>
+      <Project Name="redefining_base_class_methods" ConfigName="Debug"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>

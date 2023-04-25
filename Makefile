@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ class_copy_constructor_assignment_operator - Debug ]----------"
-	@cd "class_copy_constructor_assignment_operator" && "$(MAKE)" -f  "class_copy_constructor_assignment_operator.mk"
+	@echo "----------Building project:[ redefining_base_class_methods - Debug ]----------"
+	@cd "redefining_base_class_methods" && "$(MAKE)" -f  "redefining_base_class_methods.mk"
 clean:
-	@echo "----------Cleaning project:[ class_copy_constructor_assignment_operator - Debug ]----------"
-	@cd "class_copy_constructor_assignment_operator" && "$(MAKE)" -f  "class_copy_constructor_assignment_operator.mk" clean
+	@echo "----------Cleaning project:[ redefining_base_class_methods - Debug ]----------"
+	@cd "redefining_base_class_methods" && "$(MAKE)" -f  "redefining_base_class_methods.mk" clean
