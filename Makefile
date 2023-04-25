@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ S14Challenge2 - Debug ]----------"
-	@cd "S14Challenge2" && "$(MAKE)" -f  "S14Challenge2.mk"
+	@echo "----------Building project:[ class_copy_constructor_assignment_operator - Debug ]----------"
+	@cd "class_copy_constructor_assignment_operator" && "$(MAKE)" -f  "class_copy_constructor_assignment_operator.mk"
 clean:
-	@echo "----------Cleaning project:[ S14Challenge2 - Debug ]----------"
-	@cd "S14Challenge2" && "$(MAKE)" -f  "S14Challenge2.mk" clean
+	@echo "----------Cleaning project:[ class_copy_constructor_assignment_operator - Debug ]----------"
+	@cd "class_copy_constructor_assignment_operator" && "$(MAKE)" -f  "class_copy_constructor_assignment_operator.mk" clean
