@@ -113,7 +113,8 @@
   <Project Name="base_class_pointers" Path="base_class_pointers/base_class_pointers.project" Active="No"/>
   <Project Name="virtual_functions" Path="virtual_functions/virtual_functions.project" Active="No"/>
   <Project Name="virtual_destructors" Path="virtual_destructors/virtual_destructors.project" Active="No"/>
-  <Project Name="using_override" Path="using_override/using_override.project" Active="Yes"/>
+  <Project Name="using_override_specifier" Path="using_override/using_override.project" Active="No"/>
+  <Project Name="using_final_specifier" Path="using_final_specifier/using_final_specifier.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -230,7 +231,8 @@
       <Project Name="base_class_pointers" ConfigName="Debug"/>
       <Project Name="virtual_functions" ConfigName="Debug"/>
       <Project Name="virtual_destructors" ConfigName="Debug"/>
-      <Project Name="using_override" ConfigName="Debug"/>
+      <Project Name="using_override_specifier" ConfigName="Debug"/>
+      <Project Name="using_final_specifier" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -347,7 +349,8 @@
       <Project Name="base_class_pointers" ConfigName="Debug"/>
       <Project Name="virtual_functions" ConfigName="Debug"/>
       <Project Name="virtual_destructors" ConfigName="Debug"/>
-      <Project Name="using_override" ConfigName="Debug"/>
+      <Project Name="using_override_specifier" ConfigName="Debug"/>
+      <Project Name="using_final_specifier" ConfigName="Debug"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
