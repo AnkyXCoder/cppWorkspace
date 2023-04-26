@@ -111,7 +111,8 @@
   <Project Name="S15Challenge" Path="S15Challenge/S15Challenge.project" Active="No"/>
   <Project Name="function_binding_problem" Path="function_binding_problem/function_binding_problem.project" Active="No"/>
   <Project Name="base_class_pointers" Path="base_class_pointers/base_class_pointers.project" Active="No"/>
-  <Project Name="virtual_functions" Path="virtual_functions/virtual_functions.project" Active="Yes"/>
+  <Project Name="virtual_functions" Path="virtual_functions/virtual_functions.project" Active="No"/>
+  <Project Name="virtual_destructors" Path="virtual_destructors/virtual_destructors.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -227,6 +228,7 @@
       <Project Name="function_binding_problem" ConfigName="Debug"/>
       <Project Name="base_class_pointers" ConfigName="Debug"/>
       <Project Name="virtual_functions" ConfigName="Debug"/>
+      <Project Name="virtual_destructors" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -342,6 +344,7 @@
       <Project Name="function_binding_problem" ConfigName="Debug"/>
       <Project Name="base_class_pointers" ConfigName="Debug"/>
       <Project Name="virtual_functions" ConfigName="Debug"/>
+      <Project Name="virtual_destructors" ConfigName="Debug"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
