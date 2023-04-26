@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ virtual_destructors - Debug ]----------"
-	@cd "virtual_destructors" && "$(MAKE)" -f  "virtual_destructors.mk"
+	@echo "----------Building project:[ using_override - Debug ]----------"
+	@cd "using_override" && "$(MAKE)" -f  "using_override.mk"
 clean:
-	@echo "----------Cleaning project:[ virtual_destructors - Debug ]----------"
-	@cd "virtual_destructors" && "$(MAKE)" -f  "virtual_destructors.mk" clean
+	@echo "----------Cleaning project:[ using_override - Debug ]----------"
+	@cd "using_override" && "$(MAKE)" -f  "using_override.mk" clean
