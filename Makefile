@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ S16Challenge - Debug ]----------"
-	@cd "S16Challenge" && "$(MAKE)" -f  "S16Challenge.mk"
+	@echo "----------Building project:[ unique_pointers - Debug ]----------"
+	@cd "unique_pointers" && "$(MAKE)" -f  "unique_pointers.mk"
 clean:
-	@echo "----------Cleaning project:[ S16Challenge - Debug ]----------"
-	@cd "S16Challenge" && "$(MAKE)" -f  "S16Challenge.mk" clean
+	@echo "----------Cleaning project:[ unique_pointers - Debug ]----------"
+	@cd "unique_pointers" && "$(MAKE)" -f  "unique_pointers.mk" clean

@@ -117,8 +117,9 @@
   <Project Name="using_final_specifier" Path="using_final_specifier/using_final_specifier.project" Active="No"/>
   <Project Name="base_class_references" Path="base_class_references/base_class_references.project" Active="No"/>
   <Project Name="pure_virtual_functions" Path="pure_virtual_functions/pure_virtual_functions.project" Active="No"/>
-  <Project Name="S16Challenge" Path="S16Challenge/S16Challenge.project" Active="Yes"/>
+  <Project Name="S16Challenge" Path="S16Challenge/S16Challenge.project" Active="No"/>
   <Project Name="abstract_class_as_interfaces" Path="abstract_class_as_interfaces/abstract_class_as_interfaces.project" Active="No"/>
+  <Project Name="unique_pointers" Path="unique_pointers/unique_pointers.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -241,6 +242,7 @@
       <Project Name="pure_virtual_functions" ConfigName="Debug"/>
       <Project Name="S16Challenge" ConfigName="Debug"/>
       <Project Name="abstract_class_as_interfaces" ConfigName="Debug"/>
+      <Project Name="unique_pointers" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -363,6 +365,7 @@
       <Project Name="pure_virtual_functions" ConfigName="Debug"/>
       <Project Name="S16Challenge" ConfigName="Debug"/>
       <Project Name="abstract_class_as_interfaces" ConfigName="Debug"/>
+      <Project Name="unique_pointers" ConfigName="Debug"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
