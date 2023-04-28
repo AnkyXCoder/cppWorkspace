@@ -120,7 +120,8 @@
   <Project Name="S16Challenge" Path="S16Challenge/S16Challenge.project" Active="No"/>
   <Project Name="abstract_class_as_interfaces" Path="abstract_class_as_interfaces/abstract_class_as_interfaces.project" Active="No"/>
   <Project Name="unique_pointers" Path="unique_pointers/unique_pointers.project" Active="No"/>
-  <Project Name="shared_pointers" Path="shared_pointers/shared_pointers.project" Active="Yes"/>
+  <Project Name="shared_pointers" Path="shared_pointers/shared_pointers.project" Active="No"/>
+  <Project Name="weak_pointers" Path="weak_pointers/weak_pointers.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -245,6 +246,7 @@
       <Project Name="abstract_class_as_interfaces" ConfigName="Debug"/>
       <Project Name="unique_pointers" ConfigName="Debug"/>
       <Project Name="shared_pointers" ConfigName="Debug"/>
+      <Project Name="weak_pointers" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -369,6 +371,7 @@
       <Project Name="abstract_class_as_interfaces" ConfigName="Debug"/>
       <Project Name="unique_pointers" ConfigName="Debug"/>
       <Project Name="shared_pointers" ConfigName="Debug"/>
+      <Project Name="weak_pointers" ConfigName="Debug"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
