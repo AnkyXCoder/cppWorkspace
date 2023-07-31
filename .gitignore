@@ -10,3 +10,4 @@
 .ctagsd/
 .codelite/
 build-Debug/
+Makefile
