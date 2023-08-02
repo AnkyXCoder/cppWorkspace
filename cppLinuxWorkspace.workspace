@@ -125,7 +125,8 @@
   <Project Name="custom_deleters" Path="custom_deleters/custom_deleters.project" Active="No"/>
   <Project Name="S17Challenge" Path="S17Challenge/S17Challenge.project" Active="No"/>
   <Project Name="miles_per_hour" Path="miles_per_hour/miles_per_hour.project" Active="No"/>
-  <Project Name="mph_func" Path="mph_func/mph_func.project" Active="Yes"/>
+  <Project Name="mph_func" Path="mph_func/mph_func.project" Active="No"/>
+  <Project Name="stack_unwinding" Path="stack_unwinding/stack_unwinding.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -255,6 +256,7 @@
       <Project Name="S17Challenge" ConfigName="Debug"/>
       <Project Name="miles_per_hour" ConfigName="Debug"/>
       <Project Name="mph_func" ConfigName="Debug"/>
+      <Project Name="stack_unwinding" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -384,6 +386,7 @@
       <Project Name="S17Challenge" ConfigName="Debug"/>
       <Project Name="miles_per_hour" ConfigName="Debug"/>
       <Project Name="mph_func" ConfigName="Debug"/>
+      <Project Name="stack_unwinding" ConfigName="Debug"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
