@@ -13,3 +13,7 @@ build-Debug/
 Makefile
 *.mk
 *.txt
+.clang-format
+.clangd
+.json
+compile_commands.json
