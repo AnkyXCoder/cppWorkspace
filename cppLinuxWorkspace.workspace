@@ -126,7 +126,8 @@
   <Project Name="S17Challenge" Path="S17Challenge/S17Challenge.project" Active="No"/>
   <Project Name="miles_per_hour" Path="miles_per_hour/miles_per_hour.project" Active="No"/>
   <Project Name="mph_func" Path="mph_func/mph_func.project" Active="No"/>
-  <Project Name="stack_unwinding" Path="stack_unwinding/stack_unwinding.project" Active="Yes"/>
+  <Project Name="stack_unwinding" Path="stack_unwinding/stack_unwinding.project" Active="No"/>
+  <Project Name="exception_handling" Path="exception_handling/exception_handling.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -257,6 +258,7 @@
       <Project Name="miles_per_hour" ConfigName="Debug"/>
       <Project Name="mph_func" ConfigName="Debug"/>
       <Project Name="stack_unwinding" ConfigName="Debug"/>
+      <Project Name="exception_handling" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -387,6 +389,7 @@
       <Project Name="miles_per_hour" ConfigName="Debug"/>
       <Project Name="mph_func" ConfigName="Debug"/>
       <Project Name="stack_unwinding" ConfigName="Debug"/>
+      <Project Name="exception_handling" ConfigName="Debug"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
