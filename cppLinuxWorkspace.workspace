@@ -128,7 +128,8 @@
   <Project Name="mph_func" Path="mph_func/mph_func.project" Active="No"/>
   <Project Name="stack_unwinding" Path="stack_unwinding/stack_unwinding.project" Active="No"/>
   <Project Name="exception_handling" Path="exception_handling/exception_handling.project" Active="No"/>
-  <Project Name="constructor_exception" Path="constructor_exception/constructor_exception.project" Active="Yes"/>
+  <Project Name="constructor_exception" Path="constructor_exception/constructor_exception.project" Active="No"/>
+  <Project Name="S18Challenge" Path="S18Challenge/S18Challenge.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -261,6 +262,7 @@
       <Project Name="stack_unwinding" ConfigName="Debug"/>
       <Project Name="exception_handling" ConfigName="Debug"/>
       <Project Name="constructor_exception" ConfigName="Debug"/>
+      <Project Name="S18Challenge" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -393,6 +395,7 @@
       <Project Name="stack_unwinding" ConfigName="Debug"/>
       <Project Name="exception_handling" ConfigName="Debug"/>
       <Project Name="constructor_exception" ConfigName="Release"/>
+      <Project Name="S18Challenge" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
