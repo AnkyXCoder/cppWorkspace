@@ -1,1 +1,0 @@
-Debug/solution2.cpp.o   
