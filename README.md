@@ -69,6 +69,42 @@ Once you are ready with the installation, refer to folders in the below given or
   - protected_members_class_access
   - redefining_base_class_methods
   - deriving_class
+- Operator Overloading
+  - overloading_functions
+  - operator_overloading_step1
+  - operator_overloading_copy_assignment
+  - operator_overloading_move_assignment
+  - operator_overloading_stream_insertion_extraction
+- Inheritance
+  - base_class_initialization
+  - deriving_class
+  - redefining_base_class_methods
+  - class_constructors_destructors
+  - protected_members_class_access
+  - class_copy_constructor_assignment_operator
+- Polymorphism
+  - base_class_pointers
+  - base_class_references
+  - abstract_class_as_interfaces
+  - using_override
+  - using_final
+  - virtual_functions
+  - virtual_destructors
+  - pure_virtual_functions
+- Smart Pointers
+  - weak_pointers
+  - shared_pointers
+  - unique_pointers
+  - custom_deleters
+- Exception Handling
+  - exception_handling
+  - miles_per_hour
+  - mph_func
+  - stack_unwinding
+  - constructor_exception
+- I/O and Streams
+  - manip_boolean
+  - manip_int_base
 
 ## Excersizes and Section Challenges:
 
