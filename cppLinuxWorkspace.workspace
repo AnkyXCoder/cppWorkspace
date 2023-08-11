@@ -131,7 +131,8 @@
   <Project Name="constructor_exception" Path="constructor_exception/constructor_exception.project" Active="No"/>
   <Project Name="S18Challenge" Path="S18Challenge/S18Challenge.project" Active="No"/>
   <Project Name="manip_boolean" Path="manip_boolean/manip_boolean.project" Active="No"/>
-  <Project Name="manip_int_base" Path="manip_int_base/manip_int_base.project" Active="Yes"/>
+  <Project Name="manip_int_base" Path="manip_int_base/manip_int_base.project" Active="No"/>
+  <Project Name="manip_floating_point" Path="manip_floating_point/manip_floating_point.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -267,6 +268,7 @@
       <Project Name="S18Challenge" ConfigName="Debug"/>
       <Project Name="manip_boolean" ConfigName="Debug"/>
       <Project Name="manip_int_base" ConfigName="Debug"/>
+      <Project Name="manip_floating_point" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -402,6 +404,7 @@
       <Project Name="S18Challenge" ConfigName="Release"/>
       <Project Name="manip_boolean" ConfigName="Release"/>
       <Project Name="manip_int_base" ConfigName="Release"/>
+      <Project Name="manip_floating_point" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>

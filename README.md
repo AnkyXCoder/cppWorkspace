@@ -105,6 +105,7 @@ Once you are ready with the installation, refer to folders in the below given or
 - I/O and Streams
   - manip_boolean
   - manip_int_base
+  - manip_floating_point
 
 ## Excersizes and Section Challenges:
 
