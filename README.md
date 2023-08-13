@@ -106,6 +106,7 @@ Once you are ready with the installation, refer to folders in the below given or
   - manip_boolean
   - manip_int_base
   - manip_floating_point
+  - manip_fields
 
 ## Excersizes and Section Challenges:
 
