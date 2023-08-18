@@ -107,6 +107,7 @@ Once you are ready with the installation, refer to folders in the below given or
   - manip_int_base
   - manip_floating_point
   - manip_fields
+  - read_file1
 
 ## Excersizes and Section Challenges:
 
