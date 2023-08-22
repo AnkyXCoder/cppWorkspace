@@ -134,7 +134,11 @@
   <Project Name="manip_int_base" Path="manip_int_base/manip_int_base.project" Active="No"/>
   <Project Name="manip_floating_point" Path="manip_floating_point/manip_floating_point.project" Active="No"/>
   <Project Name="manip_fields" Path="manip_fields/manip_fields.project" Active="No"/>
-  <Project Name="read_file1" Path="read_file1/read_file1.project" Active="Yes"/>
+  <Project Name="read_file1" Path="read_file1/read_file1.project" Active="No"/>
+  <Project Name="read_file2" Path="read_file2/read_file2.project" Active="No"/>
+  <Project Name="read_file3" Path="read_file3/read_file3.project" Active="No"/>
+  <Project Name="read_file4" Path="read_file4/read_file4.project" Active="No"/>
+  <Project Name="S19Challenge1" Path="S19Challenge1/S19Challenge1.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -273,6 +277,10 @@
       <Project Name="manip_floating_point" ConfigName="Debug"/>
       <Project Name="manip_fields" ConfigName="Debug"/>
       <Project Name="read_file1" ConfigName="Debug"/>
+      <Project Name="read_file2" ConfigName="Debug"/>
+      <Project Name="read_file3" ConfigName="Debug"/>
+      <Project Name="read_file4" ConfigName="Debug"/>
+      <Project Name="S19Challenge1" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -411,6 +419,10 @@
       <Project Name="manip_floating_point" ConfigName="Release"/>
       <Project Name="manip_fields" ConfigName="Release"/>
       <Project Name="read_file1" ConfigName="Release"/>
+      <Project Name="read_file2" ConfigName="Release"/>
+      <Project Name="read_file3" ConfigName="Release"/>
+      <Project Name="read_file4" ConfigName="Release"/>
+      <Project Name="S19Challenge1" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>

@@ -108,6 +108,10 @@ Once you are ready with the installation, refer to folders in the below given or
   - manip_floating_point
   - manip_fields
   - read_file1
+  - read_file2
+  - read_file3
+  - read_file4
+  
 
 ## Excersizes and Section Challenges:
 
