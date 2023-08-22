@@ -138,7 +138,9 @@
   <Project Name="read_file2" Path="read_file2/read_file2.project" Active="No"/>
   <Project Name="read_file3" Path="read_file3/read_file3.project" Active="No"/>
   <Project Name="read_file4" Path="read_file4/read_file4.project" Active="No"/>
-  <Project Name="S19Challenge1" Path="S19Challenge1/S19Challenge1.project" Active="Yes"/>
+  <Project Name="S19Challenge1" Path="S19Challenge1/S19Challenge1.project" Active="No"/>
+  <Project Name="CodingExercise37" Path="CodingExercise37/CodingExercise37.project" Active="No"/>
+  <Project Name="S19Challenge2" Path="S19Challenge2/S19Challenge2.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -281,6 +283,8 @@
       <Project Name="read_file3" ConfigName="Debug"/>
       <Project Name="read_file4" ConfigName="Debug"/>
       <Project Name="S19Challenge1" ConfigName="Debug"/>
+      <Project Name="CodingExercise37" ConfigName="Debug"/>
+      <Project Name="S19Challenge2" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -423,6 +427,8 @@
       <Project Name="read_file3" ConfigName="Release"/>
       <Project Name="read_file4" ConfigName="Release"/>
       <Project Name="S19Challenge1" ConfigName="Release"/>
+      <Project Name="CodingExercise37" ConfigName="Release"/>
+      <Project Name="S19Challenge2" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
