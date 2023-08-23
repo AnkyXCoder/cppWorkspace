@@ -141,7 +141,8 @@
   <Project Name="S19Challenge1" Path="S19Challenge1/S19Challenge1.project" Active="No"/>
   <Project Name="CodingExercise37" Path="CodingExercise37/CodingExercise37.project" Active="No"/>
   <Project Name="S19Challenge2" Path="S19Challenge2/S19Challenge2.project" Active="No"/>
-  <Project Name="S19Challenge3" Path="S19Challenge3/S19Challenge3.project" Active="Yes"/>
+  <Project Name="S19Challenge3" Path="S19Challenge3/S19Challenge3.project" Active="No"/>
+  <Project Name="write_file1" Path="write_file1/write_file1.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -287,6 +288,7 @@
       <Project Name="CodingExercise37" ConfigName="Debug"/>
       <Project Name="S19Challenge2" ConfigName="Debug"/>
       <Project Name="S19Challenge3" ConfigName="Debug"/>
+      <Project Name="write_file1" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -432,6 +434,7 @@
       <Project Name="CodingExercise37" ConfigName="Release"/>
       <Project Name="S19Challenge2" ConfigName="Release"/>
       <Project Name="S19Challenge3" ConfigName="Release"/>
+      <Project Name="write_file1" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
