@@ -111,6 +111,9 @@ Once you are ready with the installation, refer to folders in the below given or
   - read_file2
   - read_file3
   - read_file4
+  - write_file1
+  - write_file2
+  - string_stream
   
 
 ## Excersizes and Section Challenges:
