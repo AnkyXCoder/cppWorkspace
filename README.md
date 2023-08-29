@@ -116,6 +116,7 @@ Once you are ready with the installation, refer to folders in the below given or
   - string_stream
 - Standard Template Library
   - stl_macros
+  - stl_function_templates
 
 ## Excersizes and Section Challenges:
 
