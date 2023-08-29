@@ -114,7 +114,8 @@ Once you are ready with the installation, refer to folders in the below given or
   - write_file1
   - write_file2
   - string_stream
-  
+- Standard Template Library
+  - stl_macros
 
 ## Excersizes and Section Challenges:
 
@@ -190,7 +191,7 @@ Once you are ready with the installation, refer to folders in the below given or
   - S19Challenge 3
   - S19Challenge 4
 - Standard Template Library
-  - S19Challenge 1
-  - S19Challenge 2
-  - S19Challenge 3
-  - S19Challenge 4
+  - S20Challenge 1
+  - S20Challenge 2
+  - S20Challenge 3
+  - S20Challenge 4

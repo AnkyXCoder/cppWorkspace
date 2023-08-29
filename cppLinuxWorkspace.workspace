@@ -145,7 +145,8 @@
   <Project Name="write_file1" Path="write_file1/write_file1.project" Active="No"/>
   <Project Name="write_file2" Path="write_file2/write_file2.project" Active="No"/>
   <Project Name="string_stream" Path="string_stream/string_stream.project" Active="No"/>
-  <Project Name="S19Challenge4" Path="S19Challenge4/S19Challenge4.project" Active="Yes"/>
+  <Project Name="S19Challenge4" Path="S19Challenge4/S19Challenge4.project" Active="No"/>
+  <Project Name="stl_macros" Path="stl_macros/stl_macros.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -295,6 +296,7 @@
       <Project Name="write_file2" ConfigName="Debug"/>
       <Project Name="string_stream" ConfigName="Debug"/>
       <Project Name="S19Challenge4" ConfigName="Debug"/>
+      <Project Name="stl_macros" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -444,6 +446,7 @@
       <Project Name="write_file2" ConfigName="Release"/>
       <Project Name="string_stream" ConfigName="Release"/>
       <Project Name="S19Challenge4" ConfigName="Release"/>
+      <Project Name="stl_macros" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
