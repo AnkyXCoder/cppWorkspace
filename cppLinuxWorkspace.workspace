@@ -148,7 +148,8 @@
   <Project Name="S19Challenge4" Path="S19Challenge4/S19Challenge4.project" Active="No"/>
   <Project Name="stl_macros" Path="stl_macros/stl_macros.project" Active="No"/>
   <Project Name="stl_function_templates" Path="stl_function_templates/stl_function_templates.project" Active="No"/>
-  <Project Name="stl_class_templates" Path="stl_class_templates/stl_class_templates.project" Active="Yes"/>
+  <Project Name="stl_class_templates" Path="stl_class_templates/stl_class_templates.project" Active="No"/>
+  <Project Name="stl_array_template_class" Path="stl_array_template_class/stl_array_template_class.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -301,6 +302,7 @@
       <Project Name="stl_macros" ConfigName="Debug"/>
       <Project Name="stl_function_templates" ConfigName="Debug"/>
       <Project Name="stl_class_templates" ConfigName="Debug"/>
+      <Project Name="stl_array_template_class" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -453,6 +455,7 @@
       <Project Name="stl_macros" ConfigName="Release"/>
       <Project Name="stl_function_templates" ConfigName="Release"/>
       <Project Name="stl_class_templates" ConfigName="Release"/>
+      <Project Name="stl_array_template_class" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
