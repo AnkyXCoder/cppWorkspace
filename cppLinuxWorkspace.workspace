@@ -153,7 +153,9 @@
   <Project Name="stl_iterators" Path="stl_iterators/stl_iterators.project" Active="No"/>
   <Project Name="stl_algorithms" Path="stl_algorithms/stl_algorithms.project" Active="No"/>
   <Project Name="stl_array" Path="stl_array/stl_array.project" Active="No"/>
-  <Project Name="stl_vector" Path="stl_vector/stl_vector.project" Active="Yes"/>
+  <Project Name="stl_vector" Path="stl_vector/stl_vector.project" Active="No"/>
+  <Project Name="stl_deque" Path="stl_deque/stl_deque.project" Active="No"/>
+  <Project Name="stl_sets" Path="stl_sets/stl_sets.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -311,6 +313,8 @@
       <Project Name="stl_algorithms" ConfigName="Debug"/>
       <Project Name="stl_array" ConfigName="Debug"/>
       <Project Name="stl_vector" ConfigName="Debug"/>
+      <Project Name="stl_deque" ConfigName="Debug"/>
+      <Project Name="stl_sets" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -468,6 +472,8 @@
       <Project Name="stl_algorithms" ConfigName="Release"/>
       <Project Name="stl_array" ConfigName="Release"/>
       <Project Name="stl_vector" ConfigName="Release"/>
+      <Project Name="stl_deque" ConfigName="Release"/>
+      <Project Name="stl_sets" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
