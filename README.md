@@ -124,6 +124,7 @@ Once you are ready with the installation, refer to folders in the below given or
   - stl_deque
   - stl_set
   - stl_map
+  - stl_stack
 
 ## Excersizes and Section Challenges:
 

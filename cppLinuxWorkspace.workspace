@@ -128,7 +128,7 @@
   <Project Name="mph_func" Path="mph_func/mph_func.project" Active="No"/>
   <Project Name="stack_unwinding" Path="stack_unwinding/stack_unwinding.project" Active="No"/>
   <Project Name="exception_handling" Path="exception_handling/exception_handling.project" Active="No"/>
-  <Project Name="constructor_exception" Path="constructor_exception/constructor_exception.project" Active="Yes"/>
+  <Project Name="constructor_exception" Path="constructor_exception/constructor_exception.project" Active="No"/>
   <Project Name="S18Challenge" Path="S18Challenge/S18Challenge.project" Active="No"/>
   <Project Name="manip_boolean" Path="manip_boolean/manip_boolean.project" Active="No"/>
   <Project Name="manip_int_base" Path="manip_int_base/manip_int_base.project" Active="No"/>
@@ -157,6 +157,7 @@
   <Project Name="stl_deque" Path="stl_deque/stl_deque.project" Active="No"/>
   <Project Name="stl_set" Path="stl_sets/stl_sets.project" Active="No"/>
   <Project Name="stl_map" Path="stl_maps/stl_maps.project" Active="No"/>
+  <Project Name="stl_stack" Path="stl_stack/stl_stack.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -317,6 +318,7 @@
       <Project Name="stl_deque" ConfigName="Debug"/>
       <Project Name="stl_set" ConfigName="Debug"/>
       <Project Name="stl_map" ConfigName="Debug"/>
+      <Project Name="stl_stack" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -477,6 +479,7 @@
       <Project Name="stl_deque" ConfigName="Release"/>
       <Project Name="stl_set" ConfigName="Release"/>
       <Project Name="stl_map" ConfigName="Release"/>
+      <Project Name="stl_stack" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
