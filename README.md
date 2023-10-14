@@ -122,7 +122,8 @@ Once you are ready with the installation, refer to folders in the below given or
   - stl_array
   - stl_vector
   - stl_deque
-  - stl_sets
+  - stl_set
+  - stl_map
 
 ## Excersizes and Section Challenges:
 
