@@ -126,6 +126,7 @@ Once you are ready with the installation, refer to folders in the below given or
   - stl_map
   - stl_stack
   - stl_queue
+  - stl_priority_queue
 
 ## Excersizes and Section Challenges:
 
