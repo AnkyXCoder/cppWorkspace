@@ -117,6 +117,10 @@ Once you are ready with the installation, refer to folders in the below given or
 - Standard Template Library
   - stl_macros
   - stl_function_templates
+  - stl_iterators
+  - stl_algorithms
+  - stl_array
+  - stl_vector
 
 ## Excersizes and Section Challenges:
 

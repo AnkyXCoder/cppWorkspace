@@ -152,7 +152,8 @@
   <Project Name="stl_array_template_class" Path="stl_array_template_class/stl_array_template_class.project" Active="No"/>
   <Project Name="stl_iterators" Path="stl_iterators/stl_iterators.project" Active="No"/>
   <Project Name="stl_algorithms" Path="stl_algorithms/stl_algorithms.project" Active="No"/>
-  <Project Name="stl_array" Path="stl_array/stl_array.project" Active="Yes"/>
+  <Project Name="stl_array" Path="stl_array/stl_array.project" Active="No"/>
+  <Project Name="stl_vector" Path="stl_vector/stl_vector.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -309,6 +310,7 @@
       <Project Name="stl_iterators" ConfigName="Debug"/>
       <Project Name="stl_algorithms" ConfigName="Debug"/>
       <Project Name="stl_array" ConfigName="Debug"/>
+      <Project Name="stl_vector" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -465,6 +467,7 @@
       <Project Name="stl_iterators" ConfigName="Release"/>
       <Project Name="stl_algorithms" ConfigName="Release"/>
       <Project Name="stl_array" ConfigName="Release"/>
+      <Project Name="stl_vector" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
