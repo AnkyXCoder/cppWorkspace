@@ -159,7 +159,8 @@
   <Project Name="stl_map" Path="stl_maps/stl_maps.project" Active="No"/>
   <Project Name="stl_stack" Path="stl_stack/stl_stack.project" Active="No"/>
   <Project Name="stl_queue" Path="stl_queue/stl_queue.project" Active="No"/>
-  <Project Name="stl_priority_queue" Path="stl_priority_queue/stl_priority_queue.project" Active="Yes"/>
+  <Project Name="stl_priority_queue" Path="stl_priority_queue/stl_priority_queue.project" Active="No"/>
+  <Project Name="S20Challenge1" Path="S20Challenge1/S20Challenge1.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -323,6 +324,7 @@
       <Project Name="stl_stack" ConfigName="Debug"/>
       <Project Name="stl_queue" ConfigName="Debug"/>
       <Project Name="stl_priority_queue" ConfigName="Debug"/>
+      <Project Name="S20Challenge1" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -486,6 +488,7 @@
       <Project Name="stl_stack" ConfigName="Release"/>
       <Project Name="stl_queue" ConfigName="Release"/>
       <Project Name="stl_priority_queue" ConfigName="Release"/>
+      <Project Name="S20Challenge1" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
