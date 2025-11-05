@@ -4,13 +4,13 @@
 C++ is widely used programming language.
 You can use this repository to get yourself familiarized with Basics of C++ programming language.
 Here, MinGW compiler is used on Codelite software.
-Both of these are OpenSource Softwares and you can download these from the below given links:
+Both of these are OpenSource Software and you can download these from the below given links:
 Software : CodeLite : <https://downloads.codelite.org/>
 Compiler : MinGW : <https://osdn.net/projects/mingw/releases/>
 
 Visual Studio Code with C/C++ extension for C/C++ programming is also used for some of the Sections. But, it doesn't matter which Software is used.
 
-You can use other softwares such as Eclipse, Microsoft Visual Studio, NetBeans, IntelliJ IDEA, etc.
+You can use other software such as Eclipse, Microsoft Visual Studio, NetBeans, IntelliJ IDEA, etc.
 
 Once you are ready with the installation, refer to folders in the below given order:
 
@@ -128,7 +128,7 @@ Once you are ready with the installation, refer to folders in the below given or
   - stl_queue
   - stl_priority_queue
 
-## Excersizes and Section Challenges:
+## Excersises and Section Challenges:
 
 - Getting Started with C++
   - S4Challenge
@@ -206,3 +206,5 @@ Once you are ready with the installation, refer to folders in the below given or
   - S20Challenge 2
   - S20Challenge 3
   - S20Challenge 4
+- Data Structures Concepts
+  - String
