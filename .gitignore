@@ -17,3 +17,5 @@ Makefile
 .clangd
 .json
 compile_commands.json
+.cache
+

@@ -187,6 +187,7 @@ Once you are ready with the installation, refer to folders in the below given or
   - Coding Exercise 35
   - Coding Exercise 36
   - S14Challenge
+  - Fraction - Fractional value operations
 - Inheritance
   - S15Challenge
 - Polymorphism
@@ -208,3 +209,4 @@ Once you are ready with the installation, refer to folders in the below given or
   - S20Challenge 4
 - Data Structures Concepts
   - String
+
