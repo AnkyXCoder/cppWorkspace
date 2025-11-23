@@ -164,7 +164,8 @@
   <Project Name="S20Challenge2" Path="S20Challenge2/S20Challenge2.project" Active="No"/>
   <Project Name="S20Challenge3" Path="S20Challenge3/S20Challenge3.project" Active="No"/>
   <Project Name="S20Challenge4" Path="S20Challenge4/S20Challenge4.project" Active="No"/>
-  <Project Name="Fraction_arithmatic" Path="Fraction_arithmatic/Fraction_arithmatic.project" Active="Yes"/>
+  <Project Name="Fraction_arithmatic" Path="Fraction_arithmatic/Fraction_arithmatic.project" Active="No"/>
+  <Project Name="dynamic_array" Path="dynamic_array/dynamic_array.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -333,6 +334,7 @@
       <Project Name="S20Challenge3" ConfigName="Debug"/>
       <Project Name="S20Challenge4" ConfigName="Debug"/>
       <Project Name="Fraction_arithmatic" ConfigName="Debug"/>
+      <Project Name="dynamic_array" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -501,6 +503,7 @@
       <Project Name="S20Challenge3" ConfigName="Release"/>
       <Project Name="S20Challenge4" ConfigName="Release"/>
       <Project Name="Fraction_arithmatic" ConfigName="Release"/>
+      <Project Name="dynamic_array" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
