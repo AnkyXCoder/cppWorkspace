@@ -209,4 +209,7 @@ Once you are ready with the installation, refer to folders in the below given or
   - S20Challenge 4
 - Data Structures Concepts
   - String
-
+  - Fraction Arithmetic
+  - Dynamic Array
+- Sorting Algorithm
+  - Selection Sort
