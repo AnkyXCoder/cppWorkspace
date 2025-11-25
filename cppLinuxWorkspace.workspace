@@ -168,7 +168,8 @@
   <Project Name="S20Challenge4" Path="S20Challenge4/S20Challenge4.project" Active="No"/>
   <Project Name="Fraction_arithmatic" Path="Fraction_arithmatic/Fraction_arithmatic.project" Active="No"/>
   <Project Name="dynamic_array" Path="dynamic_array/dynamic_array.project" Active="No"/>
-  <Project Name="selection_sort" Path="selection_sort/selection_sort.project" Active="Yes"/>
+  <Project Name="selection_sort" Path="selection_sort/selection_sort.project" Active="No"/>
+  <Project Name="bubble_sort" Path="bubble_sort/bubble_sort.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -339,6 +340,7 @@
       <Project Name="Fraction_arithmatic" ConfigName="Debug"/>
       <Project Name="dynamic_array" ConfigName="Debug"/>
       <Project Name="selection_sort" ConfigName="Debug"/>
+      <Project Name="bubble_sort" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -509,6 +511,7 @@
       <Project Name="Fraction_arithmatic" ConfigName="Release"/>
       <Project Name="dynamic_array" ConfigName="Release"/>
       <Project Name="selection_sort" ConfigName="Release"/>
+      <Project Name="bubble_sort" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>

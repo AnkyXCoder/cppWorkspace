@@ -213,3 +213,4 @@ Once you are ready with the installation, refer to folders in the below given or
   - Dynamic Array
 - Sorting Algorithm
   - Selection Sort
+  - Bubble Sort
