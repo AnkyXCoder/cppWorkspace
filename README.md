@@ -33,7 +33,7 @@ Once you are ready with the installation, refer to folders in the below given or
   - function_prototypes
   - how_function_call_works
   - default_arguments
-  - ransom_numbers
+  - random_numbers
   - scope_example
   - pass_by_reference
   - factorial_function_recursive
@@ -216,3 +216,6 @@ Once you are ready with the installation, refer to folders in the below given or
   - Bubble Sort
 - Search Algorithm
   - Linear Search
+  - Binary Search
+- Recursion
+  - Factorial of a number
