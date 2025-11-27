@@ -169,7 +169,11 @@
   <Project Name="Fraction_arithmatic" Path="Fraction_arithmatic/Fraction_arithmatic.project" Active="No"/>
   <Project Name="dynamic_array" Path="dynamic_array/dynamic_array.project" Active="No"/>
   <Project Name="selection_sort" Path="selection_sort/selection_sort.project" Active="No"/>
-  <Project Name="bubble_sort" Path="bubble_sort/bubble_sort.project" Active="Yes"/>
+  <Project Name="bubble_sort" Path="bubble_sort/bubble_sort.project" Active="No"/>
+  <Project Name="linear_search" Path="linear_search/linear_search.project" Active="No"/>
+  <Project Name="binary_search" Path="binary_search/binary_search.project" Active="No"/>
+  <Project Name="factorial_function" Path="factorial_function/factorial_function.project" Active="No"/>
+  <Project Name="fibonacci_series" Path="fibonacci_series/fibonacci_series.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -341,6 +345,10 @@
       <Project Name="dynamic_array" ConfigName="Debug"/>
       <Project Name="selection_sort" ConfigName="Debug"/>
       <Project Name="bubble_sort" ConfigName="Debug"/>
+      <Project Name="linear_search" ConfigName="Debug"/>
+      <Project Name="binary_search" ConfigName="Debug"/>
+      <Project Name="factorial_function" ConfigName="Debug"/>
+      <Project Name="fibonacci_series" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -512,6 +520,10 @@
       <Project Name="dynamic_array" ConfigName="Release"/>
       <Project Name="selection_sort" ConfigName="Release"/>
       <Project Name="bubble_sort" ConfigName="Release"/>
+      <Project Name="linear_search" ConfigName="Release"/>
+      <Project Name="binary_search" ConfigName="Release"/>
+      <Project Name="factorial_function" ConfigName="Release"/>
+      <Project Name="fibonacci_series" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
