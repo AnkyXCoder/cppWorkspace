@@ -219,3 +219,5 @@ Once you are ready with the installation, refer to folders in the below given or
   - Binary Search
 - Recursion
   - Factorial of a number
+  - Fibonacci of a number
+  - Power of a number

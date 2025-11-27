@@ -173,7 +173,8 @@
   <Project Name="linear_search" Path="linear_search/linear_search.project" Active="No"/>
   <Project Name="binary_search" Path="binary_search/binary_search.project" Active="No"/>
   <Project Name="factorial_function" Path="factorial_function/factorial_function.project" Active="No"/>
-  <Project Name="fibonacci_series" Path="fibonacci_series/fibonacci_series.project" Active="Yes"/>
+  <Project Name="fibonacci_series" Path="fibonacci_series/fibonacci_series.project" Active="No"/>
+  <Project Name="power_number" Path="power_number/power_number.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -349,6 +350,7 @@
       <Project Name="binary_search" ConfigName="Debug"/>
       <Project Name="factorial_function" ConfigName="Debug"/>
       <Project Name="fibonacci_series" ConfigName="Debug"/>
+      <Project Name="power_number" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -524,6 +526,7 @@
       <Project Name="binary_search" ConfigName="Release"/>
       <Project Name="factorial_function" ConfigName="Release"/>
       <Project Name="fibonacci_series" ConfigName="Release"/>
+      <Project Name="power_number" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
