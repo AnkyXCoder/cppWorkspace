@@ -177,7 +177,8 @@
   <Project Name="power_number" Path="power_number/power_number.project" Active="No"/>
   <Project Name="print_number" Path="print_number/print_number.project" Active="No"/>
   <Project Name="numbers_of_digit" Path="numbers_of_digit/numbers_of_digit.project" Active="No"/>
-  <Project Name="sum_of_digits" Path="sum_of_digits/sum_of_digits.project" Active="Yes"/>
+  <Project Name="sum_of_digits" Path="sum_of_digits/sum_of_digits.project" Active="No"/>
+  <Project Name="multiplication_resursion" Path="multiplication_resursion/multiplication_resursion.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -357,6 +358,7 @@
       <Project Name="print_number" ConfigName="Debug"/>
       <Project Name="numbers_of_digit" ConfigName="Debug"/>
       <Project Name="sum_of_digits" ConfigName="Debug"/>
+      <Project Name="multiplication_resursion" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -536,6 +538,7 @@
       <Project Name="print_number" ConfigName="Release"/>
       <Project Name="numbers_of_digit" ConfigName="Release"/>
       <Project Name="sum_of_digits" ConfigName="Release"/>
+      <Project Name="multiplication_resursion" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
