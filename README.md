@@ -223,3 +223,4 @@ Once you are ready with the installation, refer to folders in the below given or
   - Power of a number
   - Printing numbers
   - Numbers of digits
+  - Sum of digits of a number
