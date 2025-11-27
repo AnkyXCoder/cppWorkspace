@@ -225,3 +225,4 @@ Once you are ready with the installation, refer to folders in the below given or
   - Numbers of digits
   - Sum of digits of a number
   - Multiplication using Recursion
+  - Counts of a digit in a number
