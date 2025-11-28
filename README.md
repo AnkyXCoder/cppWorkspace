@@ -230,3 +230,4 @@ Once you are ready with the installation, refer to folders in the below given or
   - Check if Array is sorted
   - Sum of array elements
   - Check if Element is present in Array
+  - Get index OF element in Array
