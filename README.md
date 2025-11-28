@@ -228,3 +228,4 @@ Once you are ready with the installation, refer to folders in the below given or
   - Counts of a digit in a number
   - Geometric Sum
   - Check if Array is sorted
+  - Sum of array elements

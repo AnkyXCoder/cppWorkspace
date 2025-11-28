@@ -181,7 +181,8 @@
   <Project Name="multiplication_resursion" Path="multiplication_resursion/multiplication_resursion.project" Active="No"/>
   <Project Name="count_of_digit" Path="count_of_digit/count_of_digit.project" Active="No"/>
   <Project Name="geometric_sum" Path="geometric_sum/geometric_sum.project" Active="No"/>
-  <Project Name="check_array_sort" Path="check_array_sort/check_array_sort.project" Active="Yes"/>
+  <Project Name="check_array_sort" Path="check_array_sort/check_array_sort.project" Active="No"/>
+  <Project Name="sum_of_array_elements" Path="sum_of_array_elements/sum_of_array_elements.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -365,6 +366,7 @@
       <Project Name="count_of_digit" ConfigName="Debug"/>
       <Project Name="geometric_sum" ConfigName="Debug"/>
       <Project Name="check_array_sort" ConfigName="Debug"/>
+      <Project Name="sum_of_array_elements" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -548,6 +550,7 @@
       <Project Name="count_of_digit" ConfigName="Release"/>
       <Project Name="geometric_sum" ConfigName="Release"/>
       <Project Name="check_array_sort" ConfigName="Release"/>
+      <Project Name="sum_of_array_elements" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
