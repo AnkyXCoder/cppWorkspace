@@ -215,6 +215,7 @@ Once you are ready with the installation, refer to folders in the below given or
   - Selection Sort
   - Bubble Sort
   - Merge Sort
+  - Quick Sort
 - Search Algorithm
   - Linear Search
   - Binary Search
