@@ -186,7 +186,8 @@
   <Project Name="check_array_element" Path="check_array_element/check_array_element.project" Active="No"/>
   <Project Name="element_index" Path="element_index/element_index.project" Active="No"/>
   <Project Name="merge_sort" Path="merge_sort/merge_sort.project" Active="No"/>
-  <Project Name="quick_sort" Path="quick_sort/quick_sort.project" Active="Yes"/>
+  <Project Name="quick_sort" Path="quick_sort/quick_sort.project" Active="No"/>
+  <Project Name="array_operations" Path="array_operations/array_operations.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -375,6 +376,7 @@
       <Project Name="element_index" ConfigName="Debug"/>
       <Project Name="merge_sort" ConfigName="Debug"/>
       <Project Name="quick_sort" ConfigName="Debug"/>
+      <Project Name="array_operations" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -563,6 +565,7 @@
       <Project Name="element_index" ConfigName="Release"/>
       <Project Name="merge_sort" ConfigName="Release"/>
       <Project Name="quick_sort" ConfigName="Release"/>
+      <Project Name="array_operations" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
