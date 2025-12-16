@@ -188,6 +188,7 @@
   <Project Name="merge_sort" Path="merge_sort/merge_sort.project" Active="No"/>
   <Project Name="quick_sort" Path="quick_sort/quick_sort.project" Active="No"/>
   <Project Name="array_operations" Path="array_operations/array_operations.project" Active="Yes"/>
+  <Project Name="tower_hanoi" Path="tower_hanoi/tower_hanoi.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -377,6 +378,7 @@
       <Project Name="merge_sort" ConfigName="Debug"/>
       <Project Name="quick_sort" ConfigName="Debug"/>
       <Project Name="array_operations" ConfigName="Debug"/>
+      <Project Name="tower_hanoi" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -566,6 +568,7 @@
       <Project Name="merge_sort" ConfigName="Release"/>
       <Project Name="quick_sort" ConfigName="Release"/>
       <Project Name="array_operations" ConfigName="Release"/>
+      <Project Name="tower_hanoi" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
