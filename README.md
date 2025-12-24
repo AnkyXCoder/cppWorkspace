@@ -219,6 +219,7 @@ Once you are ready with the installation, refer to folders in the below given or
 - Search Algorithm
   - Linear Search
   - Binary Search
+  - Advanced Binary Search
 - Recursion
   - Factorial of a number
   - Fibonacci of a number
