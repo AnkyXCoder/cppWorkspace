@@ -189,7 +189,8 @@
   <Project Name="quick_sort" Path="quick_sort/quick_sort.project" Active="No"/>
   <Project Name="array_operations" Path="array_operations/array_operations.project" Active="No"/>
   <Project Name="tower_hanoi" Path="tower_hanoi/tower_hanoi.project" Active="No"/>
-  <Project Name="advanced_binary_search" Path="advanced_binary_search/advanced_binary_search.project" Active="Yes"/>
+  <Project Name="advanced_binary_search" Path="advanced_binary_search/advanced_binary_search.project" Active="No"/>
+  <Project Name="moore_voting" Path="moore_voting/moore_voting.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -381,6 +382,7 @@
       <Project Name="array_operations" ConfigName="Debug"/>
       <Project Name="tower_hanoi" ConfigName="Debug"/>
       <Project Name="advanced_binary_search" ConfigName="Debug"/>
+      <Project Name="moore_voting" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -572,6 +574,7 @@
       <Project Name="array_operations" ConfigName="Release"/>
       <Project Name="tower_hanoi" ConfigName="Release"/>
       <Project Name="advanced_binary_search" ConfigName="Release"/>
+      <Project Name="moore_voting" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>

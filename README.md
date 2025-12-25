@@ -220,6 +220,7 @@ Once you are ready with the installation, refer to folders in the below given or
   - Linear Search
   - Binary Search
   - Advanced Binary Search
+  - Moore Voting
 - Recursion
   - Factorial of a number
   - Fibonacci of a number
