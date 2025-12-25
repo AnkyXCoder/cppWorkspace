@@ -211,6 +211,7 @@ Once you are ready with the installation, refer to folders in the below given or
   - String
   - Fraction Arithmetic
   - Dynamic Array
+  - Simple Linked List
 - Sorting Algorithm
   - Selection Sort
   - Bubble Sort
