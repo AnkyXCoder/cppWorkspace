@@ -148,6 +148,54 @@ Node* delete_node_index(Node* head, int idx)
     return head;
 }
 
+int get_length(Node* head)
+{
+    if(NULL == head) {
+        return 0;
+    }
+
+    return 1 + get_length(head->next);
+}
+
+bool isPresent(Node* head, int data)
+{
+    Node* current = head;
+    while(NULL != current) {
+        if(data == current->data) {
+            return true;
+        }
+        current = current->next;
+    }
+    return false;
+}
+
+bool findElement(Node* head, int data)
+{
+    if(NULL == head) {
+        return false;
+    }
+    if(data == head->data) {
+        return true;
+    }
+    return findElement(head->next, data);
+}
+
+Node* get_mid_node(Node* head)
+{
+    Node* slow = head;
+    Node* fast = head->next;
+    while((NULL != fast) && (NULL != fast->next)) {
+        slow = slow->next;
+        fast = fast->next->next;
+    }
+    // even number of nodes in Linked List
+    if(NULL != fast) {
+        return slow->next;
+    }
+    // odd number of nodes in Linked List
+    return slow;
+}
+
 int main(void)
 {
     Node n1(1);
@@ -200,6 +248,25 @@ int main(void)
     head = delete_node_index(head, idx);
     cout << "Updated Linked List: ";
     print_linked_list(head);
+
+    cout << "Enter data to add in a new Linked List: " << endl;
+    head = takeInput();
+    cout << "New Linked List: " << endl;
+    print_linked_list(head);
+
+    cout << "Length: " << get_length(head) << endl;
+
+    int x;
+    cout << "Enter value to check if it is in Linked List: ";
+    cin >> x;
+    cout << "Value: " << x << ((isPresent(head, x)) ? " is " : " isn't ") << "in Linked List" << endl;
+
+    cout << "Enter value to check if it is in Linked List: ";
+    cin >> x;
+    cout << "Value: " << x << ((findElement(head, x)) ? " is " : " isn't ") << "in Linked List" << endl;
+
+    Node* mid_node = get_mid_node(head);
+    cout << "Data at the mid Node of Linked List is: " << mid_node->data << endl;
 
     return 0;
 }
