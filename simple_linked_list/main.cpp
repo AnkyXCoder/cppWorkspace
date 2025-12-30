@@ -196,6 +196,22 @@ Node* get_mid_node(Node* head)
     return slow;
 }
 
+Node* reverse_linked_list(Node* head)
+{
+    Node* current = head;
+    Node* prev = NULL;
+    Node* n;
+
+    while(NULL != current) {
+        n = current->next;
+        current->next = prev;
+
+        prev = current;
+        current = n;
+    }
+    return prev;
+}
+
 int main(void)
 {
     Node n1(1);
@@ -267,6 +283,10 @@ int main(void)
 
     Node* mid_node = get_mid_node(head);
     cout << "Data at the mid Node of Linked List is: " << mid_node->data << endl;
+
+    Node* reverse_list = reverse_linked_list(head);
+    cout << "Reversed Linked List: " << endl;
+    print_linked_list(reverse_list);
 
     return 0;
 }
